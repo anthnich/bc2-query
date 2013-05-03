@@ -1,6 +1,6 @@
-bc2-query is a Battlefield: Bad Company 2 query tool used to query the server details and player list of the chosen BC2 server.
+bc2-query is a Battlefield: Bad Company 2 tool used to query a server's information and player list.
 
-This software requires FTLK 1.3.2, SFML 2.0 (preferably the latest nightly build), and PugiXML (included in repo) to build.
+This software requires FTLK 1.3.2, SFML 2.0, and PugiXML (included in repo) to build.
 
 This builds correctly in a Windows environment, tested in Visual Studio 2012.
 
